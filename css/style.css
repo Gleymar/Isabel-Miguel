@@ -1,0 +1,162 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color:#8f8f8f;
+   }
+   
+   
+
+   h2, h3, h4, h5,h6 {
+    color: #5e8282;
+    font-family: 'Roboto', sans-serif;
+       
+   }
+
+   hr{
+    border: dotted  6px;
+    background: #8fedf5;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    
+}
+
+/*buttons*/
+
+.btn{
+    cursor: pointer;
+    background: linear-gradient(to right,#ef3486  ,#8fedf5 );
+    border:0; 
+}
+/*#917aa3 #ef3486 */
+
+/*headings*/
+.big-heading{
+    font-family: 'Merienda One', cursive;
+    text-align: center;
+    color: #2a3a49;
+    text-shadow: 2px 0 #5e8282;
+    font-size: 3rem;
+    
+    
+    line-height: 1.5;
+    padding: 10px 0 10px;
+    margin-bottom: 80px;
+
+}
+
+
+.section-heading{
+    
+    line-height: 1.5;
+    font-size: 2.5;
+    text-align: left;
+    padding: 5%;
+
+}
+
+   /*containers*/
+   .container-fluid{
+       padding: 7% 15%;
+   }
+   
+   .row{
+       text-align: center;
+   }
+   
+   /*sections*/
+    
+   .colorwhite-section{
+       background-color: white;
+   }
+
+   .colorgreen-section{
+       background-color: #8fedf5;
+   }
+   
+  /*title*/
+.img-header{
+    width: 12rem;
+    height: 7rem;
+}   
+   
+
+   /*Navigation var*/
+   
+   .navbar{
+       padding:0 0 4.5rem;
+   }
+   
+   .nav-item{
+       padding: 0 18px;
+   }
+   
+   .nav-link{
+      font-size: 1.2rem; 
+      font-family: 'Roboto', sans-serif;
+      width: 300;
+   }
+   
+   
+
+   /*Presentation*/
+   #presentation{
+       margin: 10% 0 10%;
+   }
+   .presentation-img{
+    width: 340px;
+    height: 32s3px;
+}
+
+   .text-presentation {
+       text-align: left;
+       padding: 5%;
+       line-height: 1.7;
+   }
+
+ /* scrapbook*/
+
+ /*album*/
+ .box{
+   padding: 0%;
+   margin: 1% 0%;
+
+   
+ }
+
+ #album{
+     margin:10% 0 10%;
+     padding: 3% 6%;
+ }
+ 
+
+ .box-three{
+     margin-left: 7%;
+     margin-right: 7%;
+ }
+ 
+
+ /*personality*/
+ 
+ .text-personality{
+    text-align: left;
+       padding: 5%;
+       line-height: 1.7; 
+ }
+
+.box-personality{
+    margin: 5% 0 5%;
+}
+   
+
+/*contact*/
+#contact{
+    margin: 10% 0 10%;
+}
+
+/*foooter*/
+.social-icon{
+    margin: 20px 10px;
+    
+    
+}
